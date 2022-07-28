@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alvax10
-- 👀 I’m interested in Frontend and Backend development.
-- 🌱 I’m currently learning React Backend and React Frontend.
+- 👀 I build Web apps and Web pages with frameworks and DBs.
+- 🌱 I’m currently learning Scrum methodology and Next.
 - 📫 How to reach me alvaro695547@gmail.com.
 
 <!---
