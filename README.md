@@ -1,6 +1,6 @@
 ## My Profile
 
-<img width="150" height="150" src="https://avatars.githubusercontent.com/u/64299010?v=4"/>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Alvax10/Alvax10/blob/master/devcard.svg" width="400" alt="Alvaro Bastia's Dev Card"/></a>
 
 - 👋 Hi, I’m Álvaro!
 - 👀 I build Web apps and Web pages with frameworks and DBs.
